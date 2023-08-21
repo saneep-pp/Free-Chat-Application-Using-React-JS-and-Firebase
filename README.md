@@ -63,8 +63,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### OUTPUT
+
+SIGN IN PAGE
+
+![SignIn Page](https://github.com/saneep-pp/Free-Chat-Application-Using-React-JS-and-Firebase/assets/61908137/ff82608a-b003-42a0-9002-6ed22aa3973a)
+
+CHAT PAGE
+
+![ChatingPage](https://github.com/saneep-pp/Free-Chat-Application-Using-React-JS-and-Firebase/assets/61908137/ef5cb734-cdbf-4bdd-9588-4545c62d4a1c)
